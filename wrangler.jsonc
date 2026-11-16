@@ -1,0 +1,7 @@
+{
+  // Cloudflare: publish index.html from this folder as a website.
+  // "name" must be the same as your Worker's name in Cloudflare.
+  "name": "kidzink",
+  "compatibility_date": "2026-11-01",
+  "assets": { "directory": "." }
+}
